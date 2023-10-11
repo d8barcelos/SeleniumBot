@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t0ehWEHG28dvZ9AzCeBECbnM+Gury/ekiLdOpfkk5+JfpnBmtGHXNftcYUkP5rvAT9fzGv2WYlKdkmZuK4TUSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diogo\\source\\repos\\SeleniumBot\\SeleniumBot\\SeleniumBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\selenium.support\\4.13.1\\selenium.support.4.13.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.14900\\selenium.webdriver.chromedriver.117.0.5938.14900.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
